@@ -43,6 +43,9 @@
 				src: url(/fonts/opensans-optimized.woff2) format("woff2");
 			}
 
+			html {
+				scroll-behavior: smooth;
+			}
 section, footer {
 	background: #fffcfc;
 }
